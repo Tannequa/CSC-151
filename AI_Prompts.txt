@@ -1,0 +1,24 @@
+Baltimore Ravens 2026 Java Group Project
+AI Assistance Prompts
+Student: Tannequa Whitehead
+
+Prompt 1:
+Create a beginner-friendly Java program using JOptionPane that displays a welcome message for a Baltimore Ravens 2026 team application.
+
+Prompt 2:
+Add a showInputDialog that asks the user for their name and then displays a personalized greeting.
+
+Prompt 3:
+Create a GUI main menu with clickable options for Players, Coaches, Support Staff, and Exit.
+
+Prompt 4:
+Add if/else statements that display the appropriate information based on the user's menu selection.
+
+Prompt 5:
+Add a loop that returns the user to the main menu after viewing a section and continues until the user chooses Exit.
+
+Prompt 6:
+Add comments identifying my individual contribution as the welcome screen, name input, personalized greeting, main menu, and repeating menu loop.
+
+AI Resource Used:
+ChatGPT
